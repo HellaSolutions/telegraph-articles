@@ -1,4 +1,4 @@
-## TMG Test
+## Requirements description
 
 Requirements deduced from the test description:
 
